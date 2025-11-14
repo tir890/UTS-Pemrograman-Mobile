@@ -1,9 +1,11 @@
-# Praktikum 7 dan UTS Pemrograman Mobile
+# Pemrograman Mobile
 
-Nama: 
+Nama: Tiara Hayatul Khoir
 
 NIM: 312410474 
 
 Kelas: TI.24.A5
 
-Mata Kuliah: Pemrograman Mobile
+Mata Kuliah: Pemograman Mobile
+
+https://youtube.com/shorts/Gmj7ZeHoeWM?feature=share
